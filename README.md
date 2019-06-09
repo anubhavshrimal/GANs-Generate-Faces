@@ -6,6 +6,10 @@ GANs are implemented using PyTorch framework.
 
 Fake generated faces by the project can be found in [train_samples.pkl](train_samples.pkl)
 
+<div align="center"><img src="assets/generated_faces.png" /></div>
+
+Training Losses:
+<div align="center"><img src="assets/training_losses.png" /></div>
 
 ## Instructions
 
